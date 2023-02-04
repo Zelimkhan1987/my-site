@@ -1,0 +1,33 @@
+.p-3 m-0 border-0 bd-example {
+    background-color: rgb(3, 39, 20)
+}
+body {
+    background-color: rgb(3, 39, 20)
+}
+
+h1 { text-align: center; font-size: 90px;
+    color: orange;
+}
+
+p {
+    color: orange;
+}
+
+ol {
+    color: green;
+}
+
+
+.center { list-style-position: inside;
+  text-align: center;
+    font-size: 50px;
+
+}
+
+.contacts { font-size: 50px;
+
+    color: aqua;
+}
+
+
+
